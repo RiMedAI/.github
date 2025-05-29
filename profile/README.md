@@ -15,7 +15,7 @@ Hi Folks!! Welcome to our project capstone repository - RiMedAI 👋.
 <about_us>
 
 ### The SPEECH OF THE YEAR
-<latbel> 
+<latar_belakang> 
   
   Purpose-driven :
 - lorem ipsum
@@ -65,10 +65,10 @@ Hi Folks!! Welcome to our project capstone repository - RiMedAI 👋.
 
 <!-- ### TBA -->
 ## App Showcase
-
+<image_s>
 ### App Demo  
-
+<lin_k>
 ### Youtube Link
-
+<lin_k>
 ## Special Thanks to :  
-<-- mas adri for being the best mentor ever <3 -->
+<lorem_ipsum>
