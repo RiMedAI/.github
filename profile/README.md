@@ -71,4 +71,4 @@ Hi Folks!! Welcome to our project capstone repository - RiMedAI 👋.
 ### Youtube Link
 
 ## Special Thanks to :  
-mas adri for being the best mentor ever <3
+<-- mas adri for being the best mentor ever <3 -->
